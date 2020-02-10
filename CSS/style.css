@@ -1,7 +1,13 @@
 h1 {
 	color: red;
+	font-family: century gothic;
+	background-color: black;
 	}
 
 h2 {
 	color: blue;
+}
+
+.a {
+	font-family: chiller;
 }
